@@ -1,0 +1,50 @@
+/* Authors: JBrummett, CWells, SSaywers, JGoffinet
+Date: April 23, 2011 */
+#banner img {display:inline; vertical-align:middle}
+#fork    {padding-bottom:25px}
+#wrapper {background-color:#66A1D2;
+          width:1000px;
+          margin-left:auto; margin-right:auto;}
+body      {font: 14px/175% 'Droid Sans', Trebuchet, sans-serif;
+            padding:0; }
+h1          {margin:-90px 85px 0 85px;
+            padding-top:0;}
+#banner h1 {font-size: 300%;
+            padding: 20px;
+            display:inline;
+            border:2px #ffebcd ridge}
+nav ul li {display:inline;
+            padding-right:15px}
+#content    {padding-left:40px;}
+#content ul {padding-left:30px}
+#header      {background-color:#A6F16C;}
+nav div ul   {text-align:center;}
+nav div ul li {display:inline;}
+nav ul        {list-style-type:none;}
+li a      {background-color:#62AA2A;
+           color: #eeeeee;
+            text-decoration:none;
+            padding: 8px 10px 8px 10px;}
+#fork li a  {padding: 8px 35px 8px 35px}
+#fork       {font-size:2em}
+li a:active {background-color:#FF7940;
+            color: #EEEEEE;}
+li a:hover  {color:blue;}
+#footer      {background-color:#BF5B30;
+             text-align:center;
+              height:100px;
+               padding-top:40px;
+               margin-top:0;
+               padding-right: 80px;}
+footer ul li {display:inline;
+               margin:50px;
+               list-style-type:none;}
+p           {padding: 30px;
+             width: 450px;
+             margin:0 0 0 150px}
+table       {padding-left:50px;}
+table th   {border-bottom:1px gray solid;}
+table td   {padding-right:3px}
+h1.table   {margin-bottom:15px}
+
+

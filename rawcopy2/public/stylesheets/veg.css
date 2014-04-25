@@ -1,0 +1,126 @@
+/*h1.veg {text-align:center; color:#0a8c20}
+h2.veg {background-image:url('../images/heading_background3.jpg');
+    background-repeat:repeat-x;padding-bottom:6px ; text-align:center}
+body      {font: 14px/175% 'Droid Sans', Trebuchet, sans-serif;
+            padding:0; }
+.saywers #list ul {list-style-type:decimal; }
+.saywers li span {font-size: 1.2em; color:#0a8c20}
+.saywers #list ul  ul {list-style-image:  url('../images/grencube2.gif')}
+.saywers #list ul ul ul {list-style-image: url('../images/smball.gif')}
+.saywers #list .no {list-style-type:none; list-style-image: url('../images/redcube2.gif')}
+.saywers #list .no ul {list-style-type:none; list-style-image:url('../images/smball_red.gif')}
+.saywers #list {position:relative}
+#list_col2 {position:absolute; left: 800px; top: 0px}
+/*Drop Cap*/
+	/*#first_para:first-letter,#second_para:first-letter,#third_para:first-letter {
+		float: left;
+		font-weight:bold;
+		font-size: 1.75em;
+		color:#0a8c20;
+		line-height: 0.8em;
+		border-right: 0.05em solid #0a8c20;
+		border-bottom: 0.05em solid #0a8c20;
+		padding-bottom:0.1em;
+		padding-right: 0.2em;
+		margin-right: 0.2em;
+		font-family: Georgia, Times, serif;
+	}
+*/
+/************************************************/
+
+h1.heading {
+    text-align:center;
+    color:#0a8c20
+}
+#container p{
+    margin:0 60px 0 20px;
+    width:auto;
+    padding:0 0 10px 0;
+    text-align:justify
+}
+h2.heading {
+    background:url('../images/heading_background3.jpg') repeat-x;
+    letter-spacing:.03em;
+    text-align:center;
+    margin-right: 60px;
+    margin-left:20px;
+    font-size:1.3em
+}
+h3 {
+    margin-left:20px;
+    margin-bottom:0
+}
+h4 {
+    color:#0a8c20;
+    font-variant:small-caps;
+    font-size:1.1em;
+    letter-spacing:.03em;
+    margin-bottom:0;
+    margin-left:20px
+}
+#list ul {
+    list-style-type:decimal;
+    margin-left:40px
+}
+li span {
+    font-size: 1.2em;
+    color:#0a8c20;
+    font-weight:bold
+}
+#list ul.no {
+    list-style-image: url('../images/smball_red.gif')
+}
+li span.smtext {
+    font-size:0.9em
+}
+#list ul ul {
+    list-style-type: none
+}
+#list ul ul ul {list-style-image: url('../images/smball.gif');
+    margin-bottom: 8px
+}
+#list .no {list-style-type:none;
+}
+#list .no ul {
+    list-style-image: url('../images/smball_red.gif')
+}
+ ul.yes {list-style-image: url('../images/smball.gif')}
+/*list columns*/
+#list {
+    position:relative
+}
+.list_col2 {
+    position:absolute;
+    left: 550px;
+    top: 0px;
+    margin-right:20px
+}
+.list_col3 {
+    position:absolute;
+    left:550px;
+    top:315px ;
+    margin-right:20px
+}
+.list_col4 {
+    position:absolute;
+    left:550px;
+    top:130px;
+    margin-right:20px
+}
+#bottom_list {
+    padding-bottom:30px
+}
+/*Drop Cap*/
+	.para:first-letter {
+		float: left;
+		font-weight:bold;
+		font-size: 1.75em;
+		color:#0a8c20;
+		line-height: 0.8em;
+		border-right: 0.05em solid #0a8c20;
+		border-bottom: 0.05em solid #0a8c20;
+		padding-bottom:0.1em;
+		padding-right: 0.2em;
+		margin-right: 0.2em;
+		font-family: Georgia, Times, serif;
+}

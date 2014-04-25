@@ -1,0 +1,16 @@
+<nav>
+    <div>
+        <ul>
+            <li><%= link_to_unless_current 'Home', pages_index_path %></li>
+            <li><%= link_to_unless_current 'Gluten Free Info', pages_gluteninfo_path %></li>
+            <li><%= link_to_unless_current 'Vegetarian Info', pages_veganinfo_path %></li>
+            <li><a href="#">News</a></li>
+        </ul>
+    </div>
+    <div>
+        <ul id="fork">
+            <li><a href="#">Restaurants</a></li>
+            <li><a href="#">Markets</a></li>
+        </ul>
+    </div>
+</nav>

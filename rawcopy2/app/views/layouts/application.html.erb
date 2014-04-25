@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--Authors: JBrummett, CWells, SSaywers, JGoffinet
+Date: April 23, 2011-->
+<html>
+<head>
+  <title>Raw</title>
+
+  <%= stylesheet_link_tag :all %>
+  <%= javascript_include_tag :defaults %>
+  <%= csrf_meta_tag %>
+  <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Droid+Sans">
+</head>
+<body>
+	<div id="wrapper">
+      <div id='header'>
+		<header>
+			<div id="banner">
+              <%= image_tag 'artichoke1upright.png' %>
+              <h1>Raw Ingredients</h1>
+              <%= image_tag 'artichoke1upright.png' %>
+            </div>
+              <%= render 'pages/nav' %>
+        </header>
+        </div>
+       <div id='content'>
+
+         <p class="notice"><%= notice %></p>
+         <p class="alert"><%= alert %></p>
+
+         <%= yield %>
+       </div>
+
+
+
+<div id='footer'>
+<footer >
+  <ul>
+    <li><%= link_to_unless_current 'About Us', pages_about_path %></li>
+    <li><%= link_to_unless_current 'Contact Us', pages_contact_path %></li>
+  </ul>
+</footer>
+  </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+NAME	STREET	CITY	STATE	ZIP	VEG	GF
+Sante	404 West Main Avenue	Spokane	WA	99201	TRUE	FALSE
+Mizuna	214 North Howard Street	Spokane	WA	99201	TRUE	FALSE
+P.F. Chang	801 West Main Avenue	Spokane	WA	99201	TRUE	TRUE
+Picabu	901 West 14th Avenue	Spokane	WA	99204	TRUE	FALSE
+Wild Sage Bistro	916 West 2nd Avenue	Spokane	WA	99201	FALSE	TRUE
+Ambrosia	9211 E. Montgomery	Spokane	WA	99206	FALSE	TRUE
+Olive Garden	9780 N Newport Highway	Spokane	WA	99218	FALSE	TRUE

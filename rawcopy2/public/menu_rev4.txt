@@ -1,0 +1,41 @@
+Dish	Price	Style	Gf	Veg	establishment	Description						
+Linguini Pasta	$23.00 	italian	FALSE	TRUE	Santé Restaurant & Charcuterie	Tofu. Marjoram. Local Farm Vegetables. Bread Crumbs. Manchego.						
+Pappardelle à la Bolognese Pasta	$25.00 	italian	FALSE	TRUE	Santé Restaurant & Charcuterie	Tofu. Garlic. Tomato. Fines Herbs. Baguette.						
+Lentil du Puy	$19.00 		TRUE	TRUE	Santé Restaurant & Charcuterie	Leeks. Tarragon Beurre Fondue. Baguette - Can make gluten free on request						
+Tofu	$24.00 	italian	TRUE	TRUE	Santé Restaurant & Charcuterie	Zucchini Risotto. Mushrooms. Lavash. Truffle Oil. Mushroom Sauce. Leeks. - gluten free on request						
+Fromage	$13.00 	other	TRUE	TRUE	Santé Restaurant & Charcuterie	Three Cheeses. Preserves. Berries. Fruit. Baguette. - gluten free on request						
+House-Made Seitan	$20.00 	fusion	FALSE	TRUE	Mizuna 	creamy polenta. marinated grapes. goat cheese feta and braised carrots  	  		  			
+Grilled Field Roast	$18.00 	fusion	FALSE	TRUE	Mizuna 	white bean pistou. celery salad and braised greens						
+Sweet Chili Marinated Tempeh	$18.00 	fusion	FALSE	TRUE	Mizuna 	potato. scallions. basil and a spicy coconut broth  	  					
+Crispy Fried Wheat Gluten	$19.00 	fusion	FALSE	TRUE	Mizuna 	eggplant. broccolini. shiitakes. cashews and sauteed green mango with hot and sour broth. topped with a cucumber-basil relish  						
+Pappardelle Pasta with Eggplant Meatballs	$20.00 	fusion	FALSE	TRUE	Mizuna 	basted tomato sauce. fennel jus and pecorino						
+BUDDHA'S FEAST	$7.95 	asian	FALSE	TRUE	P.F. Changs 	Vegetable medley with five-spice tofu served steamed or stir-fried						
+STIR-FRIED EGGPLANT	$7.95 	asian	FALSE	TRUE	P.F. Changs 	Tossed with scallions in a savory chili pepper sauce						
+COCONUT CURRY VEGETABLES	$8.50 	asian	FALSE	TRUE	P.F. Changs 	Stir-fried mixed vegetables. crispy silken tofu and peanuts in a vegetarian coconut curry sauce						
+MA PO TOFU	$8.75 	asian	FALSE	TRUE	P.F. Changs 	Sichuan's famous dish of crispy silken tofu in a vegetarian sauce with steamed broccoli						
+VEGETARIAN FRIED RICE	$8.50 	asian	FALSE	TRUE	P.F. Changs 	Our fried rice in a savory vegetarian sauce						
+Picaburger	$9.25 	american	FALSE	TRUE	Picabu	vegetarian Boca burger  served with lettuce. tomato. onions. and hamburger goo.  						
+Teriyaki Swiss Burger	$10.70 	american	FALSE	TRUE	Picabu	vegetarian Boca burger topped with our own teriyaki sauce and two slices of Swiss cheese.  Served with mayo. lettuce. tomato. and onions on a whole grain bun.  						
+Tofu Kung Pao	$12.50 	asian	FALSE	TRUE	Picabu	red peppers. whole peanuts. mushrooms and savory-sweet kung pao glaze. over jasmine rice with fried wonton crisp.  						
+Vegan Phad Thai	$10.50 	asian	FALSE	TRUE	Picabu	Rice noodles pan-fried with sprouts.  Small Planet tofu in a spicy-sweet sauce.  Garnished with peanuts. cilantro. and lime. 						
+Cactus Burger 	$11.25 	american	FALSE	TRUE	Picabu	vegetarian Boca burger as our Picaburger but topped with pepper jack cheese and a hot-and-spicy pepper/onion/bacon mix. with mixed greens. tomato. marinated red onions. and hamburger goo.  						
+GF CHANG'S SPICY CHICKEN	$13.95 	chicken	TRUE	FALSE	P.F. Changs 	Lightly dusted and stir-fried in a sweet Sichuan sauce. Our version of General Tso's and always a favorite						
+GF DALI CHICKEN	$13.95 	chicken	TRUE	FALSE	P.F. Changs 	Our spiciest chicken dish served with sliced potatoes and leeks						
+GF HONG KONG BEEF WITH SNOW PEAS	$11.25 	asian	TRUE	FALSE	P.F. Changs 	Tender beef. crisp snow peas and water chestnuts together at last						
+GF SHRIMP WITH LOBSTER SAUCE	$13.95 	seafood	TRUE	FALSE	P.F. Changs 	Garlic white wine sauce with Chinese black beans. mushrooms. scallions and egg						
+GF PHILIP'S BETTER LEMON CHICKEN	$13.95 	chicken	TRUE	FALSE	P.F. Changs 	Lightly dusted and quick-fried chicken served with broccoli in a tart. sweet citrus sauce						
+Ancho Roasted Pork Tenderloin-	$18.00 	pork	TRUE	FALSE	Wild Sage American Bistro 	fresh spiced avocado. black bean sauce. chipotle lime glaze 						
+Natural Black Angus New York Steak	$28.00 	steak	TRUE	FALSE	Wild Sage American Bistro 	10 ounce chef's center cut 						
+Half Pound Kobe Burger	$14.00 	american	TRUE	FALSE	Wild Sage American Bistro 	fresh hand formed chuck patty. house made gluten free onion roll. bistro salad. house pickle 						
+Wild Prawn Pasta Gratin	$17.00 	seafood	TRUE	FALSE	Wild Sage American Bistro 	brown rice pasta. garlic cream sauce. pesto. fresh lemon 						
+Veal Tenderloin Saltimbocca	$26.00 		TRUE	FALSE	Wild Sage American Bistro 	prosciutto ham. fresh sage. chardonnay & dijon butter sauce 						
+Grilled Salmon	$24.00 	seafood	TRUE	FALSE	Ambrosia Bristo & Wine Bar	Grilled Salmon* with coconut rice and apple-fennel slaw 						
+Chicken Picatta	$18.00 	chicken 	TRUE	FALSE	Ambrosia Bristo & Wine Bar	sautéed breast of chicken in a lemon caper sauce                            	mashed Yukon Gold potatoes					
+Top Sirloin	$24.00 	steak	TRUE	FALSE	Ambrosia Bristo & Wine Bar	8oz. grilled steak topped with Bordelaise sauce                                                	and served with mashed Yukon Gold potatoes and seasonal vegetables					
+Grilled Pork Chop	$24.00 	pork	TRUE	FALSE	Ambrosia Bristo & Wine Bar	Pork Chop*  with coriander–cumin crust. mashed Yukon Gold potatoes.                	"seasonal vegetable, and pork jus"					
+Pan Seared Cod	$23.00 	seafood	TRUE	FALSE	Ambrosia Bristo & Wine Bar	Cod with roasted potatoes. cabbage. and Sauce Gribiche 						
+Pennine Rigate with Marinara	$12.25 	italian	TRUE	FALSE	Olive Garden	Marinara sauce made with a blend of tomatoes. bell peppers. onions and Italian herbs. Served over gluten free penne pasta. 						
+Steak Toscano	$20.95 	italian	TRUE	FALSE	Olive Garden	Grilled 12 oz choice center cut Strip steak brushed with Italian herbs and extra-virgin olive oil. Served with grilled vegetables.	mashed Yukon Gold potatoes					
+Herb-Grilled Salmon	$18.50 	seafood	TRUE	FALSE	Olive Garden	Salmon filet brushed with Italian herbs and extra-virgin olive oil. Served with broccoli and red bell peppers.	and served with mashed Yukon Gold potatoes and seasonal vegetables					
+Mixed Grill	$17.95 	italian	TRUE	FALSE	Olive Garden	Skewers of grilled steak and chicken marinated in Italian herbs and extra-virgin olive oil. Served with broccoli and grilled vegetables.	"seasonal vegetable, and pork jus"					
+Mixed Grill (all chicken)	$17.95 	italian	TRUE	FALSE	Olive Garden	Skewered chicken marinated in Italian herbs and extra-virgin olive oil. Served with broccoli and grilled vegetables.						

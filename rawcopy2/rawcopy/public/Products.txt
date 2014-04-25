@@ -1,0 +1,25 @@
+establishment	brand	variety	item	price	vegetarian	glutenfree		
+"""Main Market"""	Food Merchants	basil garlic	polenta	3.59		TRUE		
+"""Main Market"""	"""Imagine"""	"""no-chicken"""	"""broth"""	2.79	TRUE			
+"""Main Market"""	"""Namaste"""	"""chocolate"""	"""cake mix"""	6.29		TRUE		
+"""Main Market"""	"""Small Planet"""	"""curry"""	"""tofu"""	4.49	TRUE			
+"""Main Market"""	"""Glutenfreeda"""	"""chicken & cheese"""	"""burrito"""	3.35		TRUE		
+"""Main Market"""	"""Silk"""	"""unsweetened"""	"""almond milk"""	4.49	TRUE			
+"""Main Market"""	"""Green\'s"""	"""amber"""	"""ale"""	5.59		TRUE		
+"""Huckleberry\'s"""	"""Amy\'s"""	"""non-dairy veg"""	"""pot pie"""	4.29	TRUE			
+"""Huckleberry\'s"""	"""Quorn"""	"""meatless"""	"""turk\'y burger"""	4.99	TRUE			
+"""Huckleberry\'s"""	"""Fantastic"""	"""vegetarian"""	"""chili mix"""	3.59	TRUE			
+"""Huckleberry\'s"""	"""Wow"""	"""snickerdoodle"""	"""cookies"""	6.39		TRUE		
+"""Huckleberry\'s"""	"""Pacific"""	"""chipotle sweet potato"""	"""soup"""	2.99		TRUE		
+"""Huckleberry\'s"""	"""Turtle Island"""	"""lemon pepper"""	"""tempeh"""	3.69	TRUE			
+"""Huckleberry\'s"""	"""Organicville"""	"""sesame"""	"""vinaigrette"""	4.19		TRUE		
+"""Huckleberry\'s"""	"""De Boles"""	"""fettucini"""	"""pasta"""	2.49		TRUE		
+"""Huckleberry\'s"""	"""Glutino"""	"""blueberry"""	"""breakfast bars"""	4.49		TRUE		
+"""Fred Meyer"""	"""Lucky"""	"""vegetarian"""	"""spring rolls"""	3.29	TRUE			
+"""Fred Meyer"""	"""EnerG"""	"""sesame"""	"""pretzels"""	1.89		TRUE		
+"""Fred Meyer"""	"""West Soy"""	"""vanilla"""	"""soymilk"""	2.29	TRUE			
+"""Fred Meyer"""	"""GlutenFree"""	"""cinnamon raisin"""	"""bread mix"""	6.19		TRUE		
+"""Fred Meyer"""	"""Follow Your Heart"""	"""grapeseed"""	"""vegenaise"""	8.99	TRUE			
+"""Main Market"""	"""44 West Main"""	"""99201"""						
+"""Huckleberry\'s"""	"""926 S. Monroe"""	"""99204"""						
+"""Fred Meyer"""	"""525 E. Francis"""	"""99208"""						

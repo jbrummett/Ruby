@@ -1,0 +1,35 @@
+<h1 class='table'>Listing markets</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Street</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Zip</th>
+    <th>Veg</th>
+    <th>Gf</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @markets.each do |market| %>
+  <tr>
+    <td><%= market.name %></td>
+    <td><%= market.street %></td>
+    <td><%= market.city %></td>
+    <td><%= market.state %></td>
+    <td><%= market.zip %></td>
+    <td><%= market.veg %></td>
+    <td><%= market.gf %></td>
+    <td><%= link_to 'Show', market %></td>
+    <td><%= link_to 'Edit', edit_market_path(market) %></td>
+    <td><%= link_to 'Destroy', market, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Market', new_market_path %>
